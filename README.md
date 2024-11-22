@@ -54,9 +54,6 @@ The provided dataset contained the following columns:
 
 ---
 
-
-## 💻 How to Run the Project
-
 ### Prerequisites
 - Python 3.8+
 - Required libraries: `pandas`, `numpy`, `scikit-learn`, `xgboost`, `tensorflow`, `transformers`, and `nltk`.
