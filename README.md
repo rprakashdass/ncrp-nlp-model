@@ -1,6 +1,9 @@
 
 # IndiaAI Hackathon Project: Complaint Classification
 
+# Team : Cyraix
+# Members : Prakash Dass R, Pradeesh S, Vigneshkumar S
+
 This repository contains the code for the **IndiaAI Hackathon** project, focused on classifying complaints reported on the National Cyber Crime Reporting Portal. The dataset consisted of reports written in Hinglish (a mix of Hindi and English). This README provides detailed instructions on how to preprocess the dataset, run the code, and understand the models used.
 
 ## 🚀 Project Overview
@@ -63,8 +66,12 @@ The provided dataset contained the following columns:
 - Enhance the preprocessing pipeline for better Hinglish text handling.
 - Explore newer transformer-based models like RoBERTa or GPT for improved results.
 - Deploy the DistilBERT model using a user-friendly interface.
-
 ---
+
+### Contact:
+Prakash Dass R - [rprakashdass.in] (https://www.rprakashdass.in/)
+Pradeesh S - [LinkedIn] (https://www.linkedin.com/in/pradeesh-s-4706b427a/)
+Vigneshkumar S - [LinkedIn] (https://www.linkedin.com/in/vignesh-kumar-098638294)
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
