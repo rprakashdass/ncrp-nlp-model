@@ -66,11 +66,6 @@ The provided dataset contained the following columns:
 
 ---
 
-## 🙌 Contributing
-Feel free to fork the repository, create a branch, and submit a pull request for any enhancements or bug fixes.
-
----
-
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
